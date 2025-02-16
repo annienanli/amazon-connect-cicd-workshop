@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "annieliconnectcicdprod",
+  "instanceStorageBucketName": "annieliconnectcicdprod",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
