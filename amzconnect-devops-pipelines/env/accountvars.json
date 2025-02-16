@@ -5,7 +5,7 @@
         "branch": "develop",
         "enabled": true,
         "account": "058264305811",
-        "region": ["us-east-1", "us-west-2"],
+        "region": ["us-east-1"],
         "app": "ACME"
     },
     {
