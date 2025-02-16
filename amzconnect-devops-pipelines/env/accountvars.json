@@ -1,21 +1,6 @@
 {
     "accounts": [
-    {
-        "env": "dev",
-        "branch": "develop",
-        "enabled": true,
-        "account": "058264305811",
-        "region": ["us-east-1"],
-        "app": "ACME"
-    },
-    {
-        "env": "staging",
-        "branch": "staging",
-        "enabled": true,
-        "account": "058264305811",
-        "region": ["us-east-1"],
-        "app": "ACME"
-    },
+
     {
         "env": "prod",
         "branch": "main",
